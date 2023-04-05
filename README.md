@@ -1,4 +1,8 @@
-[<img src="https://raw.githubusercontent.com/khodadadiyavar/khodadadiyavar/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://iamyavar.tech)" title="👋 Hi there! I'm Yavar"/>](https://iamyavar.tech/)
+<div align="center">
+  <a href="https://iamyavar.tech">
+    <img src="https://raw.githubusercontent.com/khodadadiyavar/khodadadiyavar/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://iamyavar.tech)" title="👋 Hi there! I'm Yavar" width="830" height="" style="display: block; margin: 0 auto;"/>
+  </a>
+</div>
 
 ### :book: About me:
 
