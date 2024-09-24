@@ -21,9 +21,13 @@
 [![](https://img.shields.io/badge/Certified%20Kubernetes%20Application%20Developer-blue?logo=Amazon%20AWS&logoColor=white&labelColor=orange&style=for-the-badge)](https://www.credly.com/badges/aabd6e84-d464-492f-8002-bf43982f6971/public_url)
 
 ### :globe_with_meridians: Follow me on:
-{{< image src="https://img.shields.io/twitter/follow/khodadadiyavar?style=social&logo=twitter" alt="Twitter" >}}
-{{< image src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" >}}
-{{< image src="https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram" alt="Instagram" >}}
+<p align="center">
+  <a href="https://twitter.com/khodadadiyavar"><img src="https://img.shields.io/twitter/follow/khodadadiyavar?style=social&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/yavarkhodadadi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/channel/UCOuJIJF8fzsR8F3VxEIlSbg"><img src="https://img.shields.io/youtube/channel/subscribers/UCOuJIJF8fzsR8F3VxEIlSbg
+?style=social&logo=youtube" alt="YouTube"></a>
+  <a href="https://www.instagram.com/yavar90"><img src="https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram" alt="Instagram"></a>
+</p>
 
 
 <div align="center">
