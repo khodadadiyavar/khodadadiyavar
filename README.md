@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://iamyavar.tech">
-    <img src="https://raw.githubusercontent.com/khodadadiyavar/khodadadiyavar/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://iamyavar.tech)" title="👋 Hi there! I'm Yavar" width="830" height="" style="display: block; margin: 0 auto;"/>
-  </a>
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Yavar!;This+is..;..my+Github..;" alt="http://yavarin.tech"/>
+    </h1>
 </div>
 
 ### :book: About me:
@@ -17,11 +17,15 @@
 ### :cloud: I am an AWS certified solutions architecht
 [![](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-blue?logo=Amazon%20AWS&logoColor=white&labelColor=orange&style=for-the-badge)](https://www.credly.com/badges/d373e28b-149c-42d5-a35f-fe63459814d7/public_url)
 
+### :cloud: I am Certified Kubernetes Application Developer
+[![](https://img.shields.io/badge/Certified%20Kubernetes%20Application%20Developer-blue?logo=Amazon%20AWS&logoColor=white&labelColor=orange&style=for-the-badge)](https://www.credly.com/badges/aabd6e84-d464-492f-8002-bf43982f6971/public_url)
+
 ### :globe_with_meridians: Follow me on:
-<p align="center">
-  <a href="https://twitter.com/khodadadiyavar"><img src="https://img.shields.io/twitter/follow/khodadadiyavar?style=social&logo=twitter" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/yavarkhodadadi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/channel/UCOuJIJF8fzsR8F3VxEIlSbg"><img src="https://img.shields.io/youtube/channel/subscribers/UCOuJIJF8fzsR8F3VxEIlSbg
-?style=social&logo=youtube" alt="YouTube"></a>
-  <a href="https://www.instagram.com/yavar90"><img src="https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram" alt="Instagram"></a>
-</p>
+{{< image src="https://img.shields.io/twitter/follow/khodadadiyavar?style=social&logo=twitter" alt="Twitter" >}}
+{{< image src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" >}}
+{{< image src="https://img.shields.io/badge/-Instagram-red?style=flat&logo=instagram" alt="Instagram" >}}
+
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khodadadiyavar&theme=github_dark" alt="Yavar's GitHub Stats"/>
+</div>
