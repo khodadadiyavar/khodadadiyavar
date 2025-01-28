@@ -14,6 +14,9 @@
 ### :microphone: I talk about:
 ![](https://img.shields.io/badge/devops-blue) ![](https://img.shields.io/badge/SRE-green) ![](https://img.shields.io/badge/software%20architecture-orange) ![](https://img.shields.io/badge/IaC-yellow) ![](https://img.shields.io/badge/docker-blueviolet) ![](https://img.shields.io/badge/kubernetes-ff69b4) ![](https://img.shields.io/badge/cloud-9cf)  ![](https://img.shields.io/badge/AWS-orange) 
 
+### ☁️ I am an AWS Certified SysOps Administartor:
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator-blue?logo=Amazon%20AWS&logoColor=white&labelColor=orange&style=for-the-badge)](https://www.credly.com/badges/40eec143-b0b4-4ec6-976a-eefcb9d69d52/public_url)
+
 ### :cloud: I am an AWS certified solutions architecht
 [![](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-blue?logo=Amazon%20AWS&logoColor=white&labelColor=orange&style=for-the-badge)](https://www.credly.com/badges/d373e28b-149c-42d5-a35f-fe63459814d7/public_url)
 
